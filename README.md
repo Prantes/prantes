@@ -13,7 +13,7 @@
 <img align="right" height="200" src="https://cdn.discordapp.com/attachments/643876405641478199/999034141813264504/Developer_activity-bro.png"  />
 
 ###
-
+<hr size="6" width="75%" align="left">
 <h5 align="left">⚙ Tecnologia e Ferramentas usadas:</h5>
 
 ###
@@ -30,7 +30,7 @@
 </div>
 
 ###
-
+<hr size="6" width="50%" align="left" >
 <p align="left">📚 Quero aprender:</p>
 
 ###
@@ -44,19 +44,19 @@
 </div>
 
 ###
-
+<hr size="6" width="50%" align="center">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&username=Prantes" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dracula&hide_border=true&username=Prantes" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dracula&hide_border=true&username=Prantes" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h5 align="left">Perfis com contatos e redes sociais</h5>
+<h5 align="center">Perfis com contatos e redes sociais</h5>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/lucas-prantes/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
