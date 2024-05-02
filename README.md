@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou suporte técnico na empresa ECONOMAPAS, uma empresa de tecnologia da informação especializada em Big Data e geomarketing e faço Analise e Desenvolvimento de Sistema pela Universidade Veiga de Almeida.<br><br>Tenho 24 anos sou do Rio de Janeiro estou estudando para ser Desenvolvedor Front-END dominando HTML/CSS/JavaScript.</p>
+<p align="left">Faço Analise e Desenvolvimento de Sistema pela Universidade Estácio de Sá.<br><br>Sou de 98, Rio de Janeiro estou estudando para ser Desenvolvedor Front-END dominando HTML/CSS/JavaScript.</p>
 
 ###
 
