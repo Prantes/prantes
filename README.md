@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgur.com/oU8oCBu.png"  />
+<img align="right" height="300" src="https://i.imgur.com/oU8oCBu.png"  />
 
 ###
 <hr size="6" width="50%" align="left">
@@ -48,7 +48,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&username=Prantes" height="150" alt="stats graph"  />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dracula&hide_border=true&username=Prantes" height="150" alt="languages graph"  />
+ <!-- <img src="[https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app)/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dracula&hide_border=true&username=Prantes" height="150" alt=" languages graph" />-->
 </div>
 
 ###
