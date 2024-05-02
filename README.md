@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="200" src="https://cdn.discordapp.com/attachments/643876405641478199/999034141813264504/Developer_activity-bro.png"  />
+<img align="right" height="200" src="https://i.imgur.com/oU8oCBu.png"  />
 
 ###
 <hr size="6" width="50%" align="left">
